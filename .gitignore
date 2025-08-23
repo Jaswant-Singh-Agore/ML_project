@@ -145,7 +145,7 @@ env.bak/
 venv.bak/
 myenv/
 .myenv
-#artifacts/
+artifacts/
 
 # Spyder project settings
 .spyderproject
